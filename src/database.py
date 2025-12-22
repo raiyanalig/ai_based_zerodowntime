@@ -13,3 +13,4 @@ CREATE TABLE IF NOT EXISTS attendance (
 
 conn.commit()
 conn.close()
+#this folder to connect to the database
