@@ -1,4 +1,4 @@
-A Smart Attendance System using Face Recognition is an automated solution designed to mark attendance by identifying individuals through their facial features. Traditional attendance methods such as manual registers, RFID cards, and fingerprint machines are time-consuming, prone to proxy attendance, unhygienic, and inefficient for large organizations.
+This project automates attendance using computer vision and ML techniques System using Face Recognition is an automated solution designed to mark attendance by identifying individuals through their facial features. Traditional attendance methods such as manual registers, RFID cards, and fingerprint machines are time-consuming, prone to proxy attendance, unhygienic, and inefficient for large organizations.
 
 This project leverages Computer Vision and Machine Learning techniques to recognize faces in real time and automatically record attendance in a secure database. The system provides a fast, contactless, and accurate attendance solution, suitable for educational institutions and organizations.
 
