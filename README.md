@@ -1,4 +1,6 @@
 # smart-attendance-face-recognition
+<img width="2879" height="1188" alt="Screenshot 2026-01-02 132700" src="https://github.com/user-attachments/assets/8aed393e-ecce-4d5e-b978-7d0410a1cd4e" />
+
 <img width="2337" height="1543" alt="Screenshot 2025-12-22 221233" src="https://github.com/user-attachments/assets/c6f7658a-d917-48e1-88e0-a3869d8f6d6e" />
 <img width="2879" height="1319" alt="Screenshot 2025-12-22 221540" src="https://github.com/user-attachments/assets/2c333637-2ac9-425e-8c53-16c2850d9a6d" />
 <img width="2631" height="1027" alt="Screenshot 2025-12-22 222742" src="https://github.com/user-attachments/assets/81399ec5-fb25-4b54-9e33-2774616ba5a7" />
