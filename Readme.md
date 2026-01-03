@@ -1,6 +1,7 @@
 Zero-Downtime Deployment System using Kubernetes
 4
 Project Overview
+<img width="2862" height="1153" alt="Screenshot 2026-01-03 055357" src="https://github.com/user-attachments/assets/88f3113f-fe79-4939-8701-2be98ba01a2c" />
 
 This project demonstrates how to deploy a web application without any service interruption using Kubernetes rolling updates.
 The system ensures high availability by gradually replacing old application instances with new ones while keeping the service live for users.
