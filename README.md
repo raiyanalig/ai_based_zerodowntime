@@ -1,4 +1,4 @@
-# smart-attendance-face-recognition
+# AI-Based-AutoScaling
 <img width="2862" height="1153" alt="Screenshot 2026-01-03 055357" src="https://github.com/user-attachments/assets/c16c766a-5a74-40ee-9e6f-7208310e945d" />
 
 <img width="2879" height="1188" alt="Screenshot 2026-01-02 132700" src="https://github.com/user-attachments/assets/8aed393e-ecce-4d5e-b978-7d0410a1cd4e" />
