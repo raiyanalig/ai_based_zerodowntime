@@ -2,10 +2,13 @@
 <img width="2862" height="1153" alt="Screenshot 2026-01-03 055357" src="https://github.com/user-attachments/assets/c16c766a-5a74-40ee-9e6f-7208310e945d" />
 
 <img width="2879" height="1188" alt="Screenshot 2026-01-02 132700" src="https://github.com/user-attachments/assets/8aed393e-ecce-4d5e-b978-7d0410a1cd4e" />
+<img width="2150" height="1210" alt="Screenshot 2025-12-22 213906" src="https://github.com/user-attachments/assets/53864124-b10a-42f7-9219-39361b3ae5a9" />
+<img width="2859" height="375" alt="Screenshot 2025-12-22 215804" src="https://github.com/user-attachments/assets/c4eafb30-fc5d-47d7-82b6-776f6c855aa9" />
 
 <img width="2337" height="1543" alt="Screenshot 2025-12-22 221233" src="https://github.com/user-attachments/assets/c6f7658a-d917-48e1-88e0-a3869d8f6d6e" />
 <img width="2879" height="1319" alt="Screenshot 2025-12-22 221540" src="https://github.com/user-attachments/assets/2c333637-2ac9-425e-8c53-16c2850d9a6d" />
 <img width="2631" height="1027" alt="Screenshot 2025-12-22 222742" src="https://github.com/user-attachments/assets/81399ec5-fb25-4b54-9e33-2774616ba5a7" />
+
 The Smart Attendance System is an AI-driven automated solution designed to mark attendance using Artificial Intelligence and Computer Vision.
 The system recognizes students’ faces from live classroom video feeds and automatically records attendance without requiring students to stand in front of a camera or perform any manual action.
 
