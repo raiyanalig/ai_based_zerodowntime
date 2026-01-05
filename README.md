@@ -129,6 +129,9 @@ Database
 Flow:
 
 Student → Camera → AI System → Attendance Database
+<img width="2816" height="1536" alt="Gemini_Generated_Image_h1uf3oh1uf3oh1uf" src="https://github.com/user-attachments/assets/b0077c7d-09f7-4150-b4d9-3736e5d7e93e" />
+
+
 
 🔹 DFD Level 1
 
@@ -149,6 +152,7 @@ Camera
   ▼
 [5] Store Attendance ────► Attendance Database
 
+<img width="2816" height="1536" alt="Gemini_Generated_Image_3fh5mx3fh5mx3fh5" src="https://github.com/user-attachments/assets/1fbd9540-9693-4fe5-80c8-83b22772dcb4" />
 
 
 🔹 DFD Level 2 (Detailed)
@@ -172,6 +176,9 @@ Attendance Validation
    │
    ▼
 Attendance Database
+
+<img width="2816" height="1536" alt="Gemini_Generated_Image_9yo7ie9yo7ie9yo7" src="https://github.com/user-attachments/assets/158d95f8-ef1e-4e36-8616-54a4454a572d" />
+
 
 🔧 Commands Used During Project Development
 🔹 Git Configuration
